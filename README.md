@@ -30,3 +30,17 @@ so that I can deploy the agent efficiently and monitor its work.
 2. **Agent Creation Form** – input form with agent details.
 3. **Task Assignment View** – UI for selecting/assigning tasks.
 4. **Agent Activity Log** – table or timeline with completed tasks and status.
+
+
+**Predefined Tasks for Sales Agent**
+1. Lead Qualification
+2. CRM Data Entry
+3. Email Outreach
+4. Follow-up Reminders
+5. Call Scheduling
+6. Proposal Drafting
+7. Pipeline Monotoring
+8. Deal Prioritization
+9. FAQ Responses
+10. Competitor Mention Tracking
+11. Demo Scheduling
