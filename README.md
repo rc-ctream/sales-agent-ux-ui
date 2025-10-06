@@ -2,7 +2,7 @@
 
 ## 📖 User Story  
 **As a Company Administrator**  
-I want to create a **Support or Sales Agent** in the **RAMI Dashboard**,  
+I want to create a **Sales Agent** in the **RAMI Dashboard**,  
 assign predefined tasks to it,  
 and then see which tasks have been completed and their current status,  
 so that I can deploy the agent efficiently and monitor its work.  
